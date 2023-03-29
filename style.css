@@ -1,0 +1,25 @@
+main{
+    margin: auto;
+    text-align: center;
+   
+}
+body {
+    background-image: url(forras/ash.jpg);
+}
+table{
+    margin: 0 40% 0 40%;
+    border:1px solid black;
+    background-color: aliceblue;
+}
+.elso{
+    font-weight: bold;
+}
+td{
+    border: 1px solid black;
+    
+}
+#kiemeles{
+    background-color: antiquewhite;
+    padding: 20px;
+    font-size: larger;
+}
